@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.hcl.in.AgreementRepositoryTest$InvokeQueryAgreementTransaction" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-04-06T05:50:05" hostname="instance-1" time="1.363">
+  <properties/>
+  <testcase name="whenCarDoesNotExist()" classname="com.hcl.in.AgreementRepositoryTest$InvokeQueryAgreementTransaction" time="1.303"/>
+  <testcase name="whenAgreementExists()" classname="com.hcl.in.AgreementRepositoryTest$InvokeQueryAgreementTransaction" time="0.056"/>
+  <system-out><![CDATA[Agreement ARG000 does not exist
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

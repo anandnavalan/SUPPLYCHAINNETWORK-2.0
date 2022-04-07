@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.hcl.in.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-06T05:50:05" hostname="instance-1" time="0.09">
+  <properties/>
+  <testcase name="testAppHasAGreeting()" classname="com.hcl.in.AppTest" time="0.09"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
